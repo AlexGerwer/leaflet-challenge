@@ -1,0 +1,3 @@
+# Ignore the config.js file
+Leaflet-Part-1/static/js/config.js
+Leaflet-Part-2/static/js/config.js
