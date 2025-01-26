@@ -49,7 +49,9 @@ leaflet-challenge/
 ├── Leaflet-Part-2/
 │ └── ... (Similar structure to Part-1)
 ├── .gitignore
-└── README.md
+├── README.md
+└── doc_GitBash.pdf
+
 ```
 
 ## Data Sources
@@ -67,9 +69,9 @@ leaflet-challenge/
 
 This project is designed to be deployed as a static website, using GitHub Pages. 
 
-The necessary steps have already been taken to configure the repository for deployment.  The site is configured to deploy from the `main` branch.
+The necessary steps have already been taken to configure the repository for deployment.  A docs folder was created on the `main` branch, the process for doing this can be found in the docs_GitBash.pdf file.   The site is configured to deploy from the docs folder in the `main` branch.
 
-After pushing the folders containing `index.html`, `logic.js`, and `styles.css` to the `main` branch, GitHub Pages automatically builds and deploys the website. The deployment status can be monitored in the "Pages" section of the repository settings.
+After pushing the folders containing `index.html`, `logic.js`, and `styles.css` to the docs folder on the `main` branch, GitHub Pages automatically builds and deploys the website. The deployment status can be monitored in the "Pages" section of the repository settings.
 
 The website is accessible at: `https://AlexGerwer.github.io/leaflet-challenge/`.
 
